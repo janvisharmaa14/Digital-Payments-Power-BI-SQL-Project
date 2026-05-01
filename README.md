@@ -23,15 +23,15 @@ Key Features
 
 Project Files
 
-*SQL queries imported in excel
-*Dashboard preview
+* SQL queries imported in excel
+* Dashboard preview
 
 
 
 Data Source
 
 This project is inspired by a real-world digital payments use case similar to PhonePe. The dataset used is sourced from a publicly available learning resource (TopVarsity) and is used for educational purposes.
-This project is not affiliated with or endorsed by PhonePe.
+
 
 Author
 
