@@ -1,4 +1,5 @@
 Overview
+
 This project analyzes a digital payments transaction dataset using Power BI and SQL. It focuses on deriving insights from transaction data and presenting them through an interactive dashboard.
 
 Tools Used
@@ -26,6 +27,7 @@ This project is inspired by a real-world digital payments use case similar to Ph
 This project is not affiliated with or endorsed by PhonePe.
 
 Author
+
 Janvi Sharma
 
 Power BI and SQL-based analysis of a digital payments transaction dataset. Features an interactive dashboard, category-wise insights, monthly trends, and payment success analysis. Built as an end-to-end project inspired by real-world platforms like PhonePe for learning purposes.
