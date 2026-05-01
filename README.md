@@ -21,6 +21,12 @@ Key Features
 * Certain categories generate higher transaction values
 * Monthly trends highlight variations in user activity
 
+Project Files
+
+SQL queries imported in excel
+Dashboard preview
+Power BI File: https://drive.google.com/file/d/1USoGWM97xsQdzkg1aMbuMk0aMsXSkLQh/view?usp=sharing
+
 Data Source
 
 This project is inspired by a real-world digital payments use case similar to PhonePe. The dataset used is sourced from a publicly available learning resource (TopVarsity) and is used for educational purposes.
