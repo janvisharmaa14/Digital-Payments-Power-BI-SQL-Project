@@ -24,7 +24,9 @@ Key Features
 Project Files
 
 SQL queries imported in excel
+
 Dashboard preview
+
 Power BI File: https://drive.google.com/file/d/1USoGWM97xsQdzkg1aMbuMk0aMsXSkLQh/view?usp=sharing
 
 Data Source
